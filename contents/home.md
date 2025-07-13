@@ -1,17 +1,17 @@
+[![senli1073](C:\Users\Administrator\Desktop\生活\b_6f93cdc0003374425a464944827e2cf1.jpg)](https://github.com/senli1073)
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a Rearch Assistant in the AI4city at HKUST(GZ).
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: zhechengshi@hkust-gz.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+B.E., Computer Sciense, Northeastern University, 2022 - 2026.
+
+Rearch Assistant at HKUST(GZ), 2025 - 
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
+Point Cloud & Computer Vision
